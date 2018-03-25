@@ -1,5 +1,6 @@
 {
-  "title" : "Code Is Science : Welcome!"
+  "title" : "Code Is Science : Welcome!",
+  "date" : "2017-07-29T11:16:33+01:00"
 }
 
 # Code is science!
@@ -22,7 +23,7 @@ Scientific code needs to be peer reviewed, and ideally open source.
 
 That's easier said than done. Getting there requires awareness, culture shift, and adherence to best practices.
 
-### Looking to Contribute? 
+### Looking to Contribute?
 
 - Do you wish more code was open source? Have you wished in the past that a DB of open source journals existed? [Share your story](https://goo.gl/forms/k3IBxlDgi97ZTJuf2)
 - Add more journals to our [list](https://goo.gl/forms/Ak9WErbGVyeFioW33) Right now it's a google form, but hopefully we'll have the full site up and running soon!

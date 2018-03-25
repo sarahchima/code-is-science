@@ -1,5 +1,6 @@
 {
-    "title" : "Contact us"
+    "title" : "Contact us",
+    "date" : "2017-09-23T12:34:14+01:00"
 }
 
 Ideas? Comments? Critiques? Want to help out? Here's how to get in contact:

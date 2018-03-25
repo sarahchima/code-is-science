@@ -6,10 +6,30 @@
     <description>Recent content in Code Is Science : Welcome! on Code Is Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Oct 2017 21:46:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 11:16:33 +0100</lastBuildDate>
     
 	<atom:link href="http://www.codeisscience.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Collaborations Workshop 2018</title>
+      <link>http://www.codeisscience.com/posts/collaborations-workshop-2018/</link>
+      <pubDate>Sat, 24 Mar 2018 15:01:54 +0100</pubDate>
+      
+      <guid>http://www.codeisscience.com/posts/collaborations-workshop-2018/</guid>
+      <description>We&amp;rsquo;ll be at the Collaborations Workshop 2018, run by the Software Sustainability Institute. Yo will be giving a lightning talk about the project, as well as a mini-workshop to start working on our manifesto.</description>
+    </item>
+    
+    <item>
+      <title>Mozfest Session 2017</title>
+      <link>http://www.codeisscience.com/posts/mozfest-session-2017/</link>
+      <pubDate>Sun, 29 Oct 2017 15:16:54 +0100</pubDate>
+      
+      <guid>http://www.codeisscience.com/posts/mozfest-session-2017/</guid>
+      <description>If you&amp;rsquo;re at MozFest, drop by our session on Sunday the 19th of October at 3:15 PM. We&amp;rsquo;ll be updating this section with the notes from our session.
+The session is on the 9th floor (don&amp;rsquo;t worry, there are lifts/elevators!) in section L1. Look for our awesome sign:
+Look for this sign if you&amp;#39;re coming to our session on Sunday at 3:15! Based on the logo by @Geek_Fred pic.twitter.com/obtKLTsKlD</description>
+    </item>
     
     <item>
       <title>Mozfest Is Coming</title>
@@ -24,7 +44,7 @@
     <item>
       <title>Contact us</title>
       <link>http://www.codeisscience.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Sep 2017 12:34:14 +0100</pubDate>
       
       <guid>http://www.codeisscience.com/contact/</guid>
       <description>Ideas? Comments? Critiques? Want to help out? Here&amp;rsquo;s how to get in contact:
