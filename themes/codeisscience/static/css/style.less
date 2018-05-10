@@ -328,3 +328,19 @@ label {
 .code-is-science-hugo footer a {
   color: #fff;
 }
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  min-height: 1px;
+  align-items: center;
+
+  @media(max-width:700px) {
+   flex-direction: column;
+   justify-content: start;
+  }
+}
+
+.footer-credits {
+  margin-top: 21px;
+}
